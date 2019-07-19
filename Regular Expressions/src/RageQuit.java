@@ -23,13 +23,9 @@ public class RageQuit {
             }
         }
 
-        Set <String> uniqueSet = new HashSet<>();
+        Set<String> uniqueSet = new HashSet<>();
         for (int i = 0; i < output.length(); i++) {
-            if (uniqueSet.contains(String.valueOf(output.charAt(i)))) {
-                continue;
-            } else {
-                uniqueSet.add(String.valueOf(output.charAt(i)));
-            }
+            uniqueSet.add(String.valueOf(output.charAt(i)));
         }
         System.out.printf("Unique symbols used: %d\n", uniqueSet.size());
         System.out.println(output);
