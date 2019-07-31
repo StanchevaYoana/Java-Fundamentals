@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Types and Variables/Data Types and Variables.iml" filepath="$PROJECT_DIR$/Data Types and Variables/Data Types and Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Exams/Final Exams.iml" filepath="$PROJECT_DIR$/Final Exams/Final Exams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regular Expressions/Regular Expressions.iml" filepath="$PROJECT_DIR$/Regular Expressions/Regular Expressions.iml" />
+    </modules>
+  </component>
+</project>
